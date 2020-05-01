@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "lifecycle"
+		},
+		{
+			"path": "router_practice"
 		}
 	]
 }
